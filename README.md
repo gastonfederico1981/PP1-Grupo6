@@ -1,4 +1,4 @@
-# PRACTICA PROFESIONALIZANTE 1
+# PRÁCTICA PROFESIONALIZANTE 1
  Proyecto Análisis trata de personas 
  
  ## Integrantes:
